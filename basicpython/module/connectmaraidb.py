@@ -6,6 +6,9 @@ import os
 import mysql.connector
 from mysql.connector import Error
 
+# check eviroment variable
+# env_file = ".env.dev" if os.getenv("ENVIRONMENT") == "dev" else ".env.prod"
+
 # load eviroment variable
 load_dotenv()
 
@@ -30,7 +33,7 @@ def connect():
             port=port
         )
         if connection.is_connected():
-            print("Connect to database successfully")
+            # print("Connect to database successfully")
             return connection
     except Error as e:
         print(e)
@@ -38,4 +41,4 @@ def connect():
 
 
 # test connect
-connect()
+# connect()
