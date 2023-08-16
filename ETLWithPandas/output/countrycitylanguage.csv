@@ -1,0 +1,12 @@
+country_code,country_name,region,surface_area,independence_year,country_population,life_expectancy,local_name,head_of_state,capital,country_code_2,city_id,city_name,city_district,city_population,language,is_official_language,language_percentage
+AU,Australia,Australasia,7692024.0,1901,25499884,83.07,Australia,Queen Elizabeth II,2673122,AU,6.0,Sydney,Central Business District,5230330.0,,,
+BR,Brazil,South America,8547403.0,1822,212559417,75.88,Brasil,Jair Bolsonaro,2118950,BR,8.0,São Paulo,Sé,12252023.0,,,
+CN,China,Eastern Asia,9572900.0,221,1439323776,76.91,Zhongguo,Xi Jinping,1899402,CN,7.0,Beijing,Dongcheng,21707000.0,,,
+DE,Germany,Western Europe,357022.0,1951,83783942,80.99,Deutschland,Frank-Walter Steinmeier,3068,DE,,,,,,,
+EG,Egypt,Northern Africa,1001450.0,1922,102334404,71.99,Misr,Abdel Fattah el-Sisi,60890,EG,10.0,Cairo,Giza,2015961.0,,,
+FR,France,Western Europe,551695.0,843,65273511,82.66,France,Emmanuel Macron,2982654,FR,5.0,Paris,1st Arrondissement,2148327.0,,,
+GB,United Kingdom,British Isles,243610.0,1707,67886011,81.32,United Kingdom,Queen Elizabeth II,4561729,GB,3.0,London,Westminster,8908081.0,,,
+IN,India,Southern and Central Asia,3287263.0,1947,1380004385,69.66,Bharat,Ram Nath Kovind,1360904,IN,9.0,Mumbai,South Mumbai,12442373.0,,,
+JP,Japan,Eastern Asia,377835.0,660,126476461,84.63,Nippon,Naruhito,1531857,JP,4.0,Tokyo,Chiyoda,13617445.0,,,
+US,United States,North America,9372610.0,1776,331002651,76.81,United States,Joe Biden,6252001,US,1.0,New York,Manhattan,8419600.0,,,
+US,United States,North America,9372610.0,1776,331002651,76.81,United States,Joe Biden,6252001,US,2.0,Los Angeles,Downtown,3980400.0,,,
